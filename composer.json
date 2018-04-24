@@ -1,10 +1,17 @@
 {
-    "name": "wjbrown/permissions",
-    "description": "",
+    "name": "wjbrown/wp-cli-permissions-command",
+    "description": "Attempts to set proper wordpress file &amp; dir permissions",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/wjbrown/permissions",
+    "homepage": "https://github.com/wjbrown/wp-cli-permissions-command",
     "license": "MIT",
-    "authors": [],
+    "authors": [
+        {
+            "name": "William Brown",
+            "email": "me@wjbrown.net",
+            "homepage": "https://wjbrown.net",
+            "role": "Developer"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
