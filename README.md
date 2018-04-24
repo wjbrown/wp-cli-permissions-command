@@ -46,3 +46,6 @@ Once you've done so, you can install this package with:
 
     wp package install git@github.com:wjbrown/wp-cli-permissions-command.git
 
+## Running as root
+
+If, for some reason you cannot run the script as the current user and need to sudo the command, that should be OK.  Just pass --allow-root to wp-cli.
