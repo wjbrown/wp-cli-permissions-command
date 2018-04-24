@@ -1,0 +1,5 @@
+{
+    "wp_owner":"wordpress",
+    "wp_group":"wordpress",
+    "mode":"production"
+}
